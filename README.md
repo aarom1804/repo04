@@ -1,2 +1,2 @@
 # Repositorio 03  
-Mi
+Mi primer ejercicio
